@@ -10,8 +10,8 @@ In the beginning, the arm was assembled using **Tinkercad website** and all the 
 
 **Second:** The Waist was placed on top of the base.
  
-**Third:** Connecting the first arm, or as it is called the lower arm, with the waist.
+**Third:** Connecting the first arm, or as it is called the _lower arm_, with the waist.
     
-**Fourth:** Connecting the second arm, or as it is called the upper arm, with the first arm.
+**Fourth:** Connecting the second arm, or as it is called the _upper arm_, with the first arm.
 
 **Fifth:** The last part was connected to the second arm, which at the end contains the Gripper.
