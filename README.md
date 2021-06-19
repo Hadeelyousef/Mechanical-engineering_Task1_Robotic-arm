@@ -1,4 +1,4 @@
-# Mechanical-engineering_Task1_Robotic-arm-
+# Mechanical engineering_Task1_Robotic-arm
 
 This Repository contains a **3D_RobotArm** file, which shows the final shape of the robotic arm after assembling the pieces together.
 
