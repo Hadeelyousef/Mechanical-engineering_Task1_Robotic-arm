@@ -5,6 +5,7 @@ This Repository contains a **3D_RobotArm** file, which shows the final shape of 
 In the beginning, the arm was assembled using **Tinkercad website** and all the pieces were placed in the initial state (**90 degrees**)
 
 **Steps for assembling the robotic arm:**
+
 **First:** The base part has been placed at the bottom.
 
 **Second:** The Waist was placed on top of the base.
