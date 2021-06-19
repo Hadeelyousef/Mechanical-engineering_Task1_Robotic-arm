@@ -1,6 +1,6 @@
 # Mechanical engineering_Task1_Robotic arm
 
-This Repository contains a **3D_RobotArm** file, which shows the final shape of the robotic arm after assembling the pieces together.
+This Repository contains a **3D_Robot Arm** file, which shows the final shape of the robotic arm after assembling the pieces together.
 
 In the beginning, the arm was assembled using **Tinkercad website** and all the pieces were placed in the initial state (**90 degrees**)
 
